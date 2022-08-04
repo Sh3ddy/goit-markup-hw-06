@@ -8,10 +8,6 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 1200px;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    margin-left: 107.5px;
-    margin-right: 107.5px;
 }
 
 /* button */
@@ -194,6 +190,10 @@ button {
 
 .header-container {
     display: flex;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 107.5px;
+    margin-right: 107.5px;
 }
 
 .het-logo {
@@ -312,8 +312,8 @@ button {
 }
 
 .agitation-panel {
-    padding-top: 40px;
-    padding-left: 70px;
+    margin-top: 75px;
+    margin-left: 70px;
 }
 
 .container-footer {
@@ -626,8 +626,8 @@ button {
 }
 
 .wrapper-box {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 /* footer */
@@ -835,8 +835,8 @@ textarea {
 }
 
 .speaker-form {
-    margin-top: 35px;
-    margin-left: 92px;
+    margin-top: 75px;
+    margin-left: 93px;
     display: flex;
     flex-direction: column;
 }

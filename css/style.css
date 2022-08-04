@@ -163,6 +163,7 @@ body {
     height: 16px;
     cursor: pointer;
     margin-right: 13px;
+    margin-top: -2px;
     fill: #757575;
 }
 
@@ -348,8 +349,8 @@ body {
 }
 
 .agitation-panel {
-    padding-top: 40px;
-    padding-left: 70px;
+    margin-top: 75px;
+    margin-left: 70px;
 }
 
 .container-footer {
@@ -416,8 +417,8 @@ address {
 }
 
 .wrapper-box {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 /* footer */
@@ -430,14 +431,11 @@ address {
     margin-left: auto;
     margin-right: auto;
     width: 1200px;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    margin-left: 107.5px;
-    margin-right: 107.5px;
 }
 
 .het {
     display: flex;
+    
 }
 
 .contacts {
@@ -450,6 +448,11 @@ address {
 
 .nav-group {
     display: flex;
+    width: 1200px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 107.5px;
+    margin-right: 107.5px;
 }
 
 .header-flex {
@@ -462,7 +465,7 @@ address {
 }
 
 .speaker-form {
-    margin-top: 35px;
+    margin-top: 72px;
     margin-left: 92px;
     display: flex;
     flex-direction: column;
